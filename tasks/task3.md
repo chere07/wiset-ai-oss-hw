@@ -22,10 +22,13 @@ index.html 파일을 열고 게임을 직접 실행해 봅시다.
 (여기에 버그를 유발한 커밋의 id와 어떻게 하면 버그를 수정할 수 있는지 적어주세요.)
 
 May 26 2010 
+
 ID: df035382c41b4d0cda86a1aa30b53f15bef05b53
 
 아래 라인을 복구합니다.
+
 Line 411
+
 this.delayBeforeBullet = 10;
 
 
